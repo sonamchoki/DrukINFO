@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Districts" />
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/ic_stars"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/ic_people"
+            android:title="About Us" />
+        <item
+            android:id="@+id/close"
+            android:icon="@drawable/ic_close"
+            android:title="Close" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share Link" />
+            <item
+                android:id="@+id/feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="Feedback" />
+        </menu>
+    </item>
+
+</menu>
