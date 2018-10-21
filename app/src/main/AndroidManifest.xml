@@ -20,6 +20,21 @@
             android:name=".Navigation_MainActivity"
             android:label="@string/title_activity_navigation__main"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AboutUs_activity"
+            android:parentActivityName=".Navigation_MainActivity" />
+        <activity
+            android:name=".Rate_us_Avtivity"
+            android:parentActivityName=".Navigation_MainActivity" />
+        <activity android:name=".List_Activity_Thimphu"
+                  android:parentActivityName=".Navigation_MainActivity"
+            />
+        <activity android:name=".Festival"
+                  android:parentActivityName=".List_Activity_Thimphu"
+            />
+        <activity android:name=".Population_and_Languages"
+                  android:parentActivityName=".List_Activity_Thimphu"
+            ></activity>
     </application>
 
 </manifest>

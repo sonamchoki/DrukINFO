@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">DrukINFO</string>
-    <string name="title_activity_navigation__main">Navigation_MainActivity</string>
+    <string name="title_activity_navigation__main">Districts</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -8,4 +8,20 @@
     <string name="action_settings">Settings</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="title_activity_rateus_activity">Rateus_activity</string>
+    <string name="title_activity_about_us_">About_us_Activity</string>
+    <string name="aboutUs_content">Kinzang Pelden \n Kishan Gurung \n Megnath Gurung \n Sonam Choki</string>
+    <string name="aboutUs_content1">Any kind of enqueries and feedbacks are welcomed at drukinfo@gmail.com</string>
+
+    <!-- main content of festival-->
+    <string name="thimphu_festival">Today is thimphu tshechu day. Any kind of enqueries and feedbacks are welcomed at drukinfo@gmail.com</string>
+
+    <string name="paro_festival">Today is thimphu tshechu day. Any kind of enqueries and feedbacks are welcomed at drukinfo@gmail.com</string>
+
+
+
+    <!-- main content of festival-->
+    <string name="thimphu_population">Today there are 42874 ppl</string>
+    <string name="paro_population">Today there are 42874 ppl</string>
+
 </resources>

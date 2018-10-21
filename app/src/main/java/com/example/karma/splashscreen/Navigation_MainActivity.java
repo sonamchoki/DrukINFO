@@ -1,8 +1,12 @@
 package com.example.karma.splashscreen;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.widget.CardView;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -16,6 +20,8 @@ import android.view.MenuItem;
 public class Navigation_MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,14 +29,6 @@ public class Navigation_MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -40,6 +38,249 @@ public class Navigation_MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+
+        c1=(CardView) findViewById(R.id.c1);
+        c2=(CardView) findViewById(R.id.c2);
+        c3=(CardView) findViewById(R.id.c3);
+        c4=(CardView) findViewById(R.id.c4);
+        c5=(CardView) findViewById(R.id.c5);
+        c6=(CardView) findViewById(R.id.c6);
+        c7=(CardView) findViewById(R.id.c7);
+        c8=(CardView) findViewById(R.id.c8);
+        c9=(CardView) findViewById(R.id.c9);
+        c10=(CardView) findViewById(R.id.c10);
+        c11=(CardView) findViewById(R.id.c11);
+        c12=(CardView) findViewById(R.id.c12);
+        c13=(CardView) findViewById(R.id.c13);
+        c14=(CardView) findViewById(R.id.c14);
+        c15=(CardView) findViewById(R.id.c15);
+        c16=(CardView) findViewById(R.id.c16);
+        c17=(CardView) findViewById(R.id.c17);
+        c18=(CardView) findViewById(R.id.c18);
+        c19=(CardView) findViewById(R.id.c19);
+        c20=(CardView) findViewById(R.id.c20);
+        c1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Thimphu";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Punakha";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Paro";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Haa";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Gasa";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Wangdiphodrang";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Chukha";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Dagana";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Samtse";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Sarpang";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Pemagatshel";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c12.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Zhemgang";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c13.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="samdrupjongkhar";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c14.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Tashiyangtse";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c15.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Tashigang";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c16.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Lhuntse";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c17.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Trongsa";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c18.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Bumthang";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c19.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Mongar";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+        c20.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String s="Tsirang";
+
+                Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
+                intent.putExtra("myText", s);
+                startActivity(intent);
+            }
+        });
+
+
     }
 
     @Override
@@ -81,12 +322,34 @@ public class Navigation_MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.home) {
+
             // Handle the camera action
         } else if (id == R.id.rate) {
+            Intent intent=new Intent(Navigation_MainActivity.this,Rate_us_Avtivity.class);
+            startActivity(intent);
 
         } else if (id == R.id.about_us) {
+            Intent intent=new Intent(Navigation_MainActivity.this,AboutUs_activity.class);
+            startActivity(intent);
 
         } else if (id == R.id.close) {
+            final AlertDialog.Builder builder=new AlertDialog.Builder(Navigation_MainActivity.this);
+            builder.setMessage("Are you sure you want to close this close?");
+            builder.setCancelable(true);
+            builder.setNegativeButton("No", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    dialog.cancel();
+                }
+            });
+            builder.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    finish();
+                }
+            });
+            AlertDialog alertDialog = builder.create();
+            alertDialog.show();
 
         } else if (id == R.id.share) {
 

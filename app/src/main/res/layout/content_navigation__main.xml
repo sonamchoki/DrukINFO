@@ -14,6 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
+            android:layout_marginTop="50dp"
             android:weightSum="10"
             android:background="#E7154E3C"
             >
@@ -35,7 +36,7 @@
 
             <GridLayout
                 android:layout_width="match_parent"
-                android:layout_height="1500dp"
+                android:layout_height="1700dp"
                 android:layout_weight="8"
                 android:alignmentMode="alignMargins"
                 android:columnCount="2"
@@ -47,6 +48,8 @@
                 <!-- 1row && 1column-->
 
                 <android.support.v7.widget.CardView
+
+                    android:id="@+id/c1"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -91,6 +94,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c2"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -135,6 +139,7 @@
                 <!-- 2row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c3"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -177,6 +182,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c4"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -221,6 +227,7 @@
                 <!-- 3row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c5"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -263,6 +270,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c6"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -307,6 +315,7 @@
                 <!-- 4row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c7"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -349,6 +358,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c8"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -393,6 +403,7 @@
                 <!-- 5row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c9"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -435,6 +446,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c10"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -479,6 +491,7 @@
                 <!-- 6row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c11"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -521,6 +534,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c12"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -565,6 +579,7 @@
                 <!-- 7row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c13"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -607,6 +622,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c14"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -651,6 +667,7 @@
                 <!-- 8row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c15"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -693,6 +710,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c16"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -737,6 +755,7 @@
                 <!-- 9row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c17"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -779,6 +798,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c18"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -823,6 +843,7 @@
                 <!-- 10row && 1column-->
 
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c19"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
@@ -865,6 +886,7 @@
 
                 <!-- 2column-->
                 <android.support.v7.widget.CardView
+                    android:id="@+id/c20"
                     android:layout_width="0dp"
                     android:layout_height="0dp"
                     android:layout_columnWeight="1"
