@@ -23,5 +23,6 @@
     <!-- main content of festival-->
     <string name="thimphu_population">Today there are 42874 ppl</string>
     <string name="paro_population">Today there are 42874 ppl</string>
+    <string name="punakha_population">Today there are 42874 ppl</string>
 
 </resources>
