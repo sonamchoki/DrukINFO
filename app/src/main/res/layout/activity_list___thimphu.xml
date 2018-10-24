@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#288"
+    android:background="@drawable/contentbg"
     android:weightSum="10"
     tools:context="com.example.karma.splashscreen.List_Activity_Thimphu">
 
@@ -46,7 +46,8 @@
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/ic_people"
+                        android:src="@drawable/festival_img"
+                        android:layout_weight="4"
                         android:layout_gravity="center_horizontal"
                         />
                     <TextView
@@ -83,12 +84,14 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:layout_margin="16dp"
+
                 android:layout_gravity="center_horizontal"
                 >
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_people"
+                    android:src="@drawable/population_language"
+                    android:layout_weight="4"
                     android:layout_gravity="center_horizontal"
                     />
                 <TextView
@@ -133,7 +136,8 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_people"
+                    android:src="@drawable/gewogs"
+                    android:layout_weight="4"
                     android:layout_gravity="center_horizontal"
                     />
                 <TextView
@@ -175,7 +179,8 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_people"
+                    android:src="@drawable/geographical"
+                    android:layout_weight="4"
                     android:layout_gravity="center_horizontal"
                     />
                 <TextView
@@ -220,7 +225,8 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_phone"
+                    android:src="@drawable/contact_img"
+                    android:layout_weight="4"
                     android:layout_gravity="center_horizontal"
                     />
                 <TextView

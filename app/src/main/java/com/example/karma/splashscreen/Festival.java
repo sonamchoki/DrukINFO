@@ -24,17 +24,26 @@ public class Festival extends AppCompatActivity {
         {
             img=(ImageView)findViewById(R.id.img);
             tv=(TextView)findViewById(R.id.t1);
-            img.setImageResource(R.drawable.thimphu);
+            img.setImageResource(R.drawable.thimphu_festival);
             tv.setText(R.string.thimphu_festival);
         }
 
-        else if(s1.equalsIgnoreCase("paro"))
+        else if(s1.equalsIgnoreCase("PUNAKHA"))
         {
             img=(ImageView)findViewById(R.id.img);
             tv=(TextView)findViewById(R.id.t1);
-            img.setImageResource(R.drawable.paro);
+            img.setImageResource(R.drawable.punakha_festival);
+            tv.setText(R.string.punakha_festival);
+
+        }
+
+        else if(s1.equalsIgnoreCase("Paro"))
+        {
+            img=(ImageView)findViewById(R.id.img);
+            tv=(TextView)findViewById(R.id.t1);
+            img.setImageResource(R.drawable.paro_festival);
             tv.setText(R.string.paro_festival);
-            tv.setText(s1);
+
         }
     }
 }

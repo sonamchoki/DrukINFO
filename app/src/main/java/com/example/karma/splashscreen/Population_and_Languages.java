@@ -16,7 +16,7 @@ public class Population_and_Languages extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_population_and__languages);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
 
         s1=getIntent().getStringExtra("myText");
 
@@ -27,14 +27,12 @@ public class Population_and_Languages extends AppCompatActivity {
             img.setImageResource(R.drawable.thimphu);
             tv.setText(R.string.thimphu_population);
         }
+        else if (s1.equalsIgnoreCase("Punakha")){
 
-        else if(s1.equalsIgnoreCase("paro"))
-        {
             img=(ImageView)findViewById(R.id.p_img);
             tv=(TextView)findViewById(R.id.p_t1);
-            img.setImageResource(R.drawable.paro);
-            tv.setText(R.string.paro_population);
-            tv.setText(s1);
+            img.setImageResource(R.drawable.punakha);
+            tv.setText(R.string.punakha_population);
         }
     }
 }

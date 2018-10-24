@@ -14,15 +14,97 @@
     <string name="aboutUs_content1">Any kind of enqueries and feedbacks are welcomed at drukinfo@gmail.com</string>
 
     <!-- main content of festival-->
-    <string name="thimphu_festival">Today is thimphu tshechu day. Any kind of enqueries and feedbacks are welcomed at drukinfo@gmail.com</string>
+    <string name="thimphu_festival">Thimphu Tshechu \n\n
+        The annual national holiday is held for three consecutive days, beginning on 10th day of the 8th month of lunar calendar.
+        The history of Thimphu Tshechu began in 1867, when it was initiated by the 4th Desi, Gyalse Tenzin Rabgay. During its first
+        years, the tshechu only features a few dances, performed by monks only. Thimphu Tshechu however was never the same again in
+        the 1950, under the third King of Bhutan, Jigme Dorji Wangchuk added colors and variations to the festival with a number of
+        masked dances performed by monks called Boed chhams. Despite the changes, the religious core of the festival is still kept intact.
+        The most famous dances during Thimphu Tshechu are Shaw Shachi (Dance of the Stags) and Guru Tshengye (Eight Manifestations of Guru). \n\n
+        Start Date: Sep 19, 2018 \n End Date: Sep 21, 2018 \n Destination: Thimphu Dzong \n
+        Thimphu Drupchen \n\n
+        Thimphu Drupchen or Drubchen (popularly known as Thimphu Dromchoey) is performed at the Thimphu Tashichhodzong. The sacred masked dance is dedicated
+        to appeasing the protecting deity of Bhutan, Pelden Lhamo. The dance ceremony was instituted between 1705 and 1709 by Kuenga Gyaltshen, the first
+        reincarnation of Jampel Dorji, son of Zhabdrung Ngawang Namgyal. According to legend, Pelden Lhamo appeared before him and performed the dances while
+        he was in meditation. Based on these dances, Kuenga Gyeltshen initiated the dance ceremony. Thimphu Drubchen is a 5 day event preceding the popular
+        3 day Thimphu Tsechu festival. Because it is mainly to appease the protecting deities, it is considered more sacred and was not open for tourists until recently.
+        Photographing may be prohibited during the Drubchen. \n\n
+         Start Date: Sep 15, 2018 \n End Date: Sep 15, 2018 \n Destination: Thimphu Dzong \n
+    </string>
 
-    <string name="paro_festival">Today is thimphu tshechu day. Any kind of enqueries and feedbacks are welcomed at drukinfo@gmail.com</string>
+    <string name="paro_festival">Paro Tshechu \n\n The Paro Tshechu is one of the biggest festivals in the country. On the first day, all mask dances are held
+        inside the courtyard of the Dzong. In the subsequent days, the courtyard outside the dzong hosts the festival.Paro Tsechu is one of the most popular
+        festivals in Bhutan. Featuring dances performed by trained monks and laymen in amazing masks and costumes, Tsechus (festivals) are one of the best ways
+        to experience the ancient living culture of Bhutan. A Tsechu is a Buddhist festival in honour of Guru Rimpoche, the saint who brought Buddhism to Bhutan.
+        A highlight of the Paro Tsechu is the unfurling of the silk Thangka – so large it covers the face of an entire building and is considered one of the most
+        sacred blessings in the whole of Bhutan. The ‘Thangka, known in Bhutan as a ‘thongdroel’ is a religious picture scroll, and is only exhibited for a few
+        hours at daybreak on the final day of the festival enabling the people to obtain its blessing. This holy scroll “confers liberation by the mere sight of
+        it” (the meaning of the word ‘thongdroel’ in Bhutanese). This tour also takes advantage of the beautiful spring time growth with stunning hikes through
+        the countryside to a Rhododendron forest in Phobjikha, as well as a visit to the Lamperi a Rhododendron Festival near Dochu La Pass. The sacred sites of Paro,
+        Thimphu and Punakha are also featured. \n\n
+        Start Date: March 27, 2018 \n End Date: March 31, 2018 \n Destination: Paro Dzong
+    </string>
+    <string name="punakha_festival">
+        Punakha Drubchen \n\n
+        In the 17th century, Zhabdrung Ngawang Namgyal of Punakha in western Bhutan defeated the invading Tibetan forces
+        which led to the unification of the country as one nation. To honor this victory, a grand celebration, the Punakha Drubchen (a.k.a. Puna Drubchen),
+        was held. It went on to become an annual festival of the district. Expectedly, the major part of the festival is a theatrical reenactment of
+        the epic battle. The battle scenes are performed by the local militia men (pazaps) dressed in the battle gear of those ancient times. This highlights
+        the fact that during that period there was no national army as such, and the battle was fought by young men from the eight village blocks (tschogchens)
+        of Thimphu who came forward voluntarily to do battle with the enemy. \n
+        In 2005, the locals put forward a request to the 70th Je Khenpo, Trulku Jigme Choedra, and the government that they wanted another similarly grand
+        festival which would help in keeping tradition alive besides, of course, further commemorating the great deeds of Zhabdrung Rimpoche. Accordingly,
+        the Punakha Tshechu was introduced in the district as one more annual event. It should also be noted that Punakha is also where the Chief Abbott
+        (Je Khenpo) of Bhutan has his winter residence. \n
 
+        A tour during the time of the festivals (Punakha Drubchen: March 6-March 10; and Punakha Tshechu: March 11-March 13) would be pretty worthwhile
+        for any tourist as they will have the opportunity to get a good glimpse of ancient Bhutanese history along with its culture and traditions.
+        The venue for the festivals is a walled fortress known as Punkaha Dzong which is situated at the confluence of two rivers and has some impressive temples
+        and large courtyards inside.  So, what say? If you are ready and raring to go, here’s one itinerary that will allow you to attend the opening and closing
+        days of the festivals and, in between, you get to see some other interesting places. \n\n
+            Start Date: Feb 21, 2018 \n End Date: Feb 24, 2018 \n Destination: Punakha Dzong \n \n
+
+        Punakha Tshechu \n\n
+        The Punakha Tshechu is one of the most popular tshechu in country. It is held right after Punakha Drubchen. \n\n
+        Start Date: Feb 25, 2018 \n End Date: Feb 27, 2018 \n Destination: Punakha Dzong \n \n
+    </string>
+
+    <string name="haa_festival">Total population 138,736 \n Male  : 72,522 \n Female : 66,214 \n\n
+         THIMPHU THROMDE Total population 114,551 \n Male  : 58,996 \n Female : 55,555 \n\n
+        OTHER THAN THROMDE Total population 24,185 \n Male  : 13,526 \n Female : 10,659
+    </string>
 
 
     <!-- main content of festival-->
-    <string name="thimphu_population">Today there are 42874 ppl</string>
-    <string name="paro_population">Today there are 42874 ppl</string>
-    <string name="punakha_population">Today there are 42874 ppl</string>
+    <string name="thimphu_population">Total population 138,736 \n Male  : 72,522 \n Female : 66,214 \n\n
+         THIMPHU THROMDE Total population 114,551 \n Male  : 58,996 \n Female : 55,555 \n\n
+        OTHER THAN THROMDE Total population 24,185 \n Male  : 13,526 \n Female : 10,659
+    </string>
+    <string name="paro_population">Total population 46,316 \n Male  : 23,941 \n Female : 22375</string>
+    <string name="punakha_population">Total population 28,740 \n Male  : 15,079 \n Female : 13,661</string>
+    <string name="haa_population">Total population 13,655 \n Male  : 7,435 \n Female : 6,220</string>
+    <string name="gasa_population">Total population 3,952 \n Male  : 2,104 \n Female : 1,848</string>
+    <string name="wangdiphodrang_population">Total population 42,186 \n Male  : 24,302 \n Female : 17,884</string>
+    <string name="chukha_population">Total population 68,966 \n Male  : 36,041 \n Female : 32,925 \n\n
+            PHUNTSHOLING THROMDE Total population 27,658 \n Male  : 15,052 \n Female : 12,606 \n\n
+        OTHER THAN THROMDE Total population 41,308 \n Male  : 20,989 \n Female : 20,319
+
+    </string>
+    <string name="dagana_population">Total population 24,965 \n Male  : 12,956 \n Female : 12,009</string>
+    <string name="samtse_population">Total population 62,590 \n Male  : 32,022 \n Female : 30,568</string>
+    <string name="sarpang_population">Total population 46,004 \n Male  : 24,018 \n Female : 21,986</string>
+    <string name="pemagatshel_population">Total population 23,632 \n Male  : 11,922 \n Female : 11,710</string>
+    <string name="zhemgang_population">Total population 17,763 \n Male  : 9,165 \n Female : 8,568</string>
+    <string name="samdrupjongkher_population">Total population 35,079 \n Male  : 18,329 \n Female : 16,750 \n\n
+        SAMDRUP JONGKHER THROMDE Total population 9,325 \n Male  : 5,016 \n Female : 4,309 \n\n
+        OTHER THAN THROMDE Total population 25,754 \n Male  : 13,313 \n Female : 12,441</string>
+    <string name="tashiyangtse_population">Total population 17,300 \n Male  : 8,719 \n Female : 8,581</string>
+    <string name="tashigang_population">Total population 45,518 \n Male  : 23,414 \n Female : 22,104</string>
+    <string name="lhuntse_population">Total population 14,437 \n Male  : 7,407 \n Female : 7,030</string>
+    <string name="trongsa_population">Total population 19,960 \n Male  : 11,878 \n Female : 8,082</string>
+    <string name="bumthang_population">Total population 17,820 \n Male  : 9,396 \n Female : 8,424</string>
+    <string name="mongar_population">Total population 37,150 \n Male  : 18,247 \n Female : 18,903 </string>
+    <string name="tsirang_population">Total population 22,376 \n Male  : 11,526 \n Female : 10,850</string>
+
 
 </resources>

@@ -43,7 +43,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c1=(CardView) findViewById(R.id.c1);
         c2=(CardView) findViewById(R.id.c2);
         c3=(CardView) findViewById(R.id.c3);
-        c4=(CardView) findViewById(R.id.c4);
+      /*  c4=(CardView) findViewById(R.id.c4);
         c5=(CardView) findViewById(R.id.c5);
         c6=(CardView) findViewById(R.id.c6);
         c7=(CardView) findViewById(R.id.c7);
@@ -59,7 +59,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c17=(CardView) findViewById(R.id.c17);
         c18=(CardView) findViewById(R.id.c18);
         c19=(CardView) findViewById(R.id.c19);
-        c20=(CardView) findViewById(R.id.c20);
+        c20=(CardView) findViewById(R.id.c20); */
         c1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -74,7 +74,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Punakha";
+                String s="PUNAKHA";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -82,7 +82,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             }
         });
 
-        c3.setOnClickListener(new View.OnClickListener() {
+      c3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String s="Paro";
@@ -93,7 +93,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             }
         });
 
-        c4.setOnClickListener(new View.OnClickListener() {
+      /*  c4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String s="Haa";
@@ -278,7 +278,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
                 intent.putExtra("myText", s);
                 startActivity(intent);
             }
-        });
+        }); */
 
 
     }
@@ -352,6 +352,8 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             alertDialog.show();
 
         } else if (id == R.id.share) {
+            Intent intent=new Intent(Navigation_MainActivity.this,Share_link_Activity.class);
+            startActivity(intent);
 
         } else if (id == R.id.feedback) {
 

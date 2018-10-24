@@ -30,7 +30,7 @@ public class List_Activity_Thimphu extends AppCompatActivity {
             }
         });
 
-        lc2.setOnClickListener(new View.OnClickListener() {
+       lc2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent= new Intent(List_Activity_Thimphu.this, Population_and_Languages.class);
