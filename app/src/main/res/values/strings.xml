@@ -69,10 +69,72 @@
         Start Date: Feb 25, 2018 \n End Date: Feb 27, 2018 \n Destination: Punakha Dzong \n \n
     </string>
 
-    <string name="haa_festival">Total population 138,736 \n Male  : 72,522 \n Female : 66,214 \n\n
-         THIMPHU THROMDE Total population 114,551 \n Male  : 58,996 \n Female : 55,555 \n\n
-        OTHER THAN THROMDE Total population 24,185 \n Male  : 13,526 \n Female : 10,659
+    <string name="haa_festival">Haa Summer Festival \n\n The Haa summer festival is a lively and uplifting celebration of traditional living-culture, nomadic lifestyles, unique Bhutanese
+        cuisine, traditional sports and religious performances. It provides unparalleled insight into the lives and traditions of Bhutan’s nomadic herders.
+        It displays a lively traditional living culture, nomadic life styles, demonstration of local cuisines, brewing of local ara, traditional sports,
+        religious performances, dances, songs, artifacts and natural alpine flowers. \n
+         Annual Haa Tshechu is underway at the lower courtyard of Lhakhang Karpo on the eighth and ninth day of the eighth lunar month. The three-day festival showcases various
+        mask dances namely Shazam and Zhana Chams. Hundreds of people draped in their best attires gathered to witness the dzongkhag’s biggest festival. The Tshechu will end on Saturday
+        with the unfurling of Guru Nangsi Zilon Thongdrel for public veneration at Wangchuk Lo Dzong. It was introduced in 1990 to honour Guru Padmasambhava. \n\n
+        Start Date: July 14, 2018 \n End Date: July 15, 2018 \n Destination: Town festival Ground, Haa \n \n
     </string>
+
+    <string name="gasa_festival">Gasa Tshechu \n\n  The Gasa festival (tshechu) is the biggest festival in the small district of Gasa in northwest Bhutan. Gasa is home to highlander communities.
+        While many mask dances are performed,the local folk dances performed are very unique and distinct adding to the festive mood of the celebration. \n Festival provides the occasions for the
+        community to get together, By witnessing the festivals, our sins are removed and blessed with virtues and merits. Family members are gathered together during the festivals.
+         Explore how these religious dances convey religious messages to the people. Discover how it brings joy and happiness to all sentient beings. It is also a time, where the Bhutanese will
+        dress up with their finest traditional dresses. Festivals play a very important role in the essence of Bhutanese culture. Festivals are combination of both the spiritual and social.
+         Festival teaches the basic precepts of Buddhism to the people. Mingle and be like local and happy people of Bhutan. Explore, Discover and enjoy the religious festivals held in the
+        Himalayan Kingdom of Bhutan.\n\n
+        Start Date: March 24, 2018 \n End Date: March 26, 2018 \n Destination: Gasa Dzong \n \n
+
+        Bum Tashi Festival \n\n The Bum Tashi festival of Gasa has been named after the region’s protecting deity Tashi Thongoen. It basically involves making offerings and prayers to
+        this protecting deity. \n\n
+        Start Date: Sep 16, 2018 \n End Date: Sep 16, 2018 \n Destination: Gasa Dzong \n \n
+        Royal Highland Festival \n\n
+        first Royal Highland Festival and pioneering Laya Run was being organised in 2016 (a pilot and precursor for the forthcoming Snowman Run). Spearheaded by the Gasa Dzongdag,
+        the historic event was inspired by the vision and passion of His Majesty Jigme Khesar Namgyal Wangchuck, the Fifth King of Bhutan, under the initiative: A Good to Great Gasa.
+        Perched high on the festival grounds above the main town, the Royal Highland Festival highlights the richness and spirituality of Layap culture and traditions, including clothing,
+        dance, music, handicrafts, food, sports, games, livestock and pastoralist practices. The highlight of the festival was meeting His Majesty The Fifth King, who graced the
+        historical inauguration of the first-ever Royal Highland Festival, as well as the following year. As festival goers sang and danced around massive bonfires that sent bright
+        sparks floating into the crisp Himalayan night under a glittering star-studded night sky, I could not help but pinch myself. What a special place. What an awesome night. \n\n
+         Start Date: August 25, 2018 \n End Date: August 25, 2018 \n Destination: Dzong \n \n
+    </string>
+
+    <string name="wangdi_festival">Wangdue Phodrang Tshechu \n\n The annual Wangdiphodrang Tshechu was introduced by Zhabdrung Ngawang Namgyal after the completion of the Dzong.
+         The festival is held in Wangduephodrang and is observed for three days in the autumn season. The Tshechu is well known
+        for the Raksha Mangcham or the dance of the Ox. Many different kinds of mask dances are performed during the festival. It concludes with the unfurling of the Guru Tshengye Thongdrol. \n\n
+        Start Date: Sep 17, 2018 \n End Date: Sep 19, 2018 \n Destination: Tencholing Army Ground, Wangdue \n
+    </string>
+
+    <string name="trongsa_festival">Trongsa Tshechu \n\n The Trongsa tshechu one of the oldest tshechus in Bhutan. It is believed that tshechus in other parts of Bhutan was spread from Trongsa Dzongkhag.
+        All the chams/dances are just like regular tshechu of other Dzongkhags (Rang lug gi Cham). On the last day, a Thongdrol is unfurled.The Lhamoi Dromche is an annual festival performed by
+        the monks of Trongsa Dzongkhag. The chams/dances include many forms worshipping the female guardian deity (Mahakali) of Bhutan.\n This festival bring together people from all walks of life and
+        falls sometime in the month of December. In addition to traditional mask dances, visitors can witness the unfurling of the sacred Thongdrol and receive blessings from high ranking monks.
+        People also receive blessings from the sacred Nangtens that is opened during the last day of the Tshechu.\n
+        Start Date: Feb 20, 2018 \n End Date: Feb 22, 2018 \n Destination: Trongsa Dzong \n
+    </string>
+    <string name="bumthang_festival">Bumthang Tshechu \n\n According to legend, the concept of Tsechu was instituted in Bhutan by Guru Padmasambhava, the great Nyingmapa scholar (the oldest of
+        the four major schools of Tibetan Buddhism) when he first visited Bhutan and Tibet in the 8th and 9th Century. He visited Bhutan to heal the dying King Sindu Raja, the king of present
+        Bumthang then. Padmasambhava performed series of dance of subjugation to conquer local deities and gods to restore king’s health and in return the King agreed to spread Buddhism in Bhutan. \n
+        Guru Padmasambhava instituted the first Tshechu in Bumthang where the most popular and sacred of all the mask dances, Guru Tshengye or the eight manifestation of Guru Padmasambhava
+        were presented through eight form of dances. Myth has it that Guru Padmasambhava manifested himself in eight different human forms and danced in front of a fearful demon that was hiding from
+        Padmasambhava.  These became the Chams (dances) depicting glory of Padmasambhava after the fearful demon was transformed into a protector of Buddhism by him. \n
+        There are other Chams (dances) presented in Tshechus also created by great scholars like Terton Pema Lingpa, Zhabdrung Rimpoche, Melirepa and other great saints. These Chams are believed
+        to be seen enacted in the dreams in the realm of zangdopelri (Guru’s Paradise) and then replicated on earth to the people and followers through Gurmas (songs)- Story of Sharop Gem Dorji,
+        and fables – story of the Raksha Mangcham (judgment of the dead). \n
+        Kurjey Tsechu \n\n
+        Kurjey Tsechu is celebrated in the popular Kurjey Lakhang in Bumthang. People of Jakar and Kurjey villages attend the Tshechu to pay obeisance to Guru Rinpoche who brought Buddhism to Bhutan.
+        It is a one-day festival and the chams/dances include the Guru Tshengye and Shinjay cham performed by the monks of Kurjey Lhakhang. It is then closed with unfurling of a giant Buddha/Guru
+        Thangka painting known as thongdrel. The festival is fully supported and funded by the government of Bhutan. \n\n
+        Start Date: June 23, 2018 \n End Date: June 23, 2018 \n Destination: Kurjey Lhakhang, Choekhor \n\n
+        Tharpaling Thongdrol \n\n
+        Tharpaling Thongdrol is a one day festival and is mainly the display of gaint thangka or thongdrol (applique silk work with buddhist images) of Jowo Jampa and Kuenkhen Longchen Rabjam
+        which are displayed every year alternatively (15th day). The Thongdrol is preceded by prayer ceremonies called the Moelam Chenmo which is performed by the monks of Tharpaling Lhakhang
+        for 10 days to the local people of Chumey every year (1st -14th day). No chams /dances are performed during the entire festival. \n\n
+    Start Date: March 2, 2018 \n End Date: March 2, 2018 \n Destination: Tharpaling Lhakhang, Chumey \n\n
+    </string>
+
 
 
     <!-- main content of festival-->

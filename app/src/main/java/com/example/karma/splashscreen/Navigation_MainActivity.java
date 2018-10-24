@@ -43,12 +43,12 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c1=(CardView) findViewById(R.id.c1);
         c2=(CardView) findViewById(R.id.c2);
         c3=(CardView) findViewById(R.id.c3);
-      /*  c4=(CardView) findViewById(R.id.c4);
+        c4=(CardView) findViewById(R.id.c4);
         c5=(CardView) findViewById(R.id.c5);
         c6=(CardView) findViewById(R.id.c6);
         c7=(CardView) findViewById(R.id.c7);
         c8=(CardView) findViewById(R.id.c8);
-        c9=(CardView) findViewById(R.id.c9);
+       /* c9=(CardView) findViewById(R.id.c9);
         c10=(CardView) findViewById(R.id.c10);
         c11=(CardView) findViewById(R.id.c11);
         c12=(CardView) findViewById(R.id.c12);
@@ -93,7 +93,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             }
         });
 
-      /*  c4.setOnClickListener(new View.OnClickListener() {
+       c4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String s="Haa";
@@ -118,7 +118,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Wangdiphodrang";
+                String s="Wangduephodrang";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -129,7 +129,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Chukha";
+                String s="Trongsa";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -140,7 +140,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Dagana";
+                String s="Bumthang";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -148,7 +148,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             }
         });
 
-        c9.setOnClickListener(new View.OnClickListener() {
+       /* c9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String s="Samtse";
