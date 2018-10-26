@@ -37,9 +37,9 @@
         festivals in Bhutan. Featuring dances performed by trained monks and laymen in amazing masks and costumes, Tsechus (festivals) are one of the best ways
         to experience the ancient living culture of Bhutan. A Tsechu is a Buddhist festival in honour of Guru Rimpoche, the saint who brought Buddhism to Bhutan.
         A highlight of the Paro Tsechu is the unfurling of the silk Thangka – so large it covers the face of an entire building and is considered one of the most
-        sacred blessings in the whole of Bhutan. The ‘Thangka, known in Bhutan as a ‘thongdroel’ is a religious picture scroll, and is only exhibited for a few
-        hours at daybreak on the final day of the festival enabling the people to obtain its blessing. This holy scroll “confers liberation by the mere sight of
-        it” (the meaning of the word ‘thongdroel’ in Bhutanese). This tour also takes advantage of the beautiful spring time growth with stunning hikes through
+        sacred blessings in the whole of Bhutan. The Thangka, known in Bhutan as a ‘thongdroel’ is a religious picture scroll, and is only exhibited for a few
+        hours at daybreak on the final day of the festival enabling the people to obtain its blessing. This holy scroll confers liberation by the mere sight of
+        it (the meaning of the word thongdroel in Bhutanese). This tour also takes advantage of the beautiful spring time growth with stunning hikes through
         the countryside to a Rhododendron forest in Phobjikha, as well as a visit to the Lamperi a Rhododendron Festival near Dochu La Pass. The sacred sites of Paro,
         Thimphu and Punakha are also featured. \n\n
         Start Date: March 27, 2018 \n End Date: March 31, 2018 \n Destination: Paro Dzong
@@ -60,7 +60,7 @@
          During the time of the festivals (Punakha Drubchen: March 6-March 10; and Punakha Tshechu: March 11-March 13) would be pretty worthwhile
         for any tourist as they will have the opportunity to get a good glimpse of ancient Bhutanese history along with its culture and traditions.
         The venue for the festivals is a walled fortress known as Punkaha Dzong which is situated at the confluence of two rivers and has some impressive temples
-        and large courtyards inside.  So, what say? If you are ready and raring to go, here’s one itinerary that will allow you to attend the opening and closing
+        and large courtyards inside.  So, what say? If you are ready and raring to go, here one itinerary that will allow you to attend the opening and closing
         days of the festivals and, in between, you get to see some other interesting places. \n\n
             Start Date: Feb 21, 2018 \n End Date: Feb 24, 2018 \n Destination: Punakha Dzong \n \n
 
@@ -121,7 +121,7 @@
         were presented through eight form of dances. Myth has it that Guru Padmasambhava manifested himself in eight different human forms and danced in front of a fearful demon that was hiding from
         Padmasambhava.  These became the Chams (dances) depicting glory of Padmasambhava after the fearful demon was transformed into a protector of Buddhism by him. \n
         There are other Chams (dances) presented in Tshechus also created by great scholars like Terton Pema Lingpa, Zhabdrung Rimpoche, Melirepa and other great saints. These Chams are believed
-        to be seen enacted in the dreams in the realm of zangdopelri (Guru’s Paradise) and then replicated on earth to the people and followers through Gurmas (songs)- Story of Sharop Gem Dorji,
+        to be seen enacted in the dreams in the realm of zangdopelri (Gurus Paradise) and then replicated on earth to the people and followers through Gurmas (songs)- Story of Sharop Gem Dorji,
         and fables – story of the Raksha Mangcham (judgment of the dead). \n
         Kurjey Tsechu \n\n
         Kurjey Tsechu is celebrated in the popular Kurjey Lakhang in Bumthang. People of Jakar and Kurjey villages attend the Tshechu to pay obeisance to Guru Rinpoche who brought Buddhism to Bhutan.
@@ -136,37 +136,476 @@
     </string>
 
 
-
-    <!-- main content of festival-->
-    <string name="thimphu_population">Total population 138,736 \n Male  : 72,522 \n Female : 66,214 \n\n
+    <!-- main content of population-->
+    <string name="thimphu_population"> \n\n Thmphu Population \n\n The population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n  Total population 138,736 \n Male  : 72,522 \n Female : 66,214 \n\n
          THIMPHU THROMDE Total population 114,551 \n Male  : 58,996 \n Female : 55,555 \n\n
-        OTHER THAN THROMDE Total population 24,185 \n Male  : 13,526 \n Female : 10,659
+        OTHER THAN THROMDE Total population 24,185 \n Male  : 13,526 \n Female : 10,659 \n\n
+        Dzongkha, or Bhutanese is a Sino-Tibetan language spoken by over half a million people in Bhutan;
+        it is the sole official and national language of the Kingdom of Bhutan. The word dzongkha means the language of the district ; kha is language, and dzong is district. \n
+        Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
+
+
     </string>
-    <string name="paro_population">Total population 46,316 \n Male  : 23,941 \n Female : 22375</string>
-    <string name="punakha_population">Total population 28,740 \n Male  : 15,079 \n Female : 13,661</string>
-    <string name="haa_population">Total population 13,655 \n Male  : 7,435 \n Female : 6,220</string>
-    <string name="gasa_population">Total population 3,952 \n Male  : 2,104 \n Female : 1,848</string>
-    <string name="wangdiphodrang_population">Total population 42,186 \n Male  : 24,302 \n Female : 17,884</string>
-    <string name="chukha_population">Total population 68,966 \n Male  : 36,041 \n Female : 32,925 \n\n
+    <string name="paro_population">\n\n Paro Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 46,316 \n Male  : 23,941 \n Female : 22375
+    Dzongkha, or Bhutanese is a Sino-Tibetan language spoken by over half a million people in Bhutan;
+        it is the sole official and national language of the Kingdom of Bhutan. The word dzongkha means the language of the district ; kha is language, and dzong is district. \n
+        Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
+    </string>
+    <string name="punakha_population">\n\n Punakha Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n  Total population 28,740 \n Male  : 15,079 \n Female : 13,661 \n\n Dzongkha, or Bhutanese is a Sino-Tibetan language spoken by over half a million people in Bhutan;
+        it is the sole official and national language of the Kingdom of Bhutan. The word dzongkha means the language of the district ; kha is language, and dzong is district. \n
+        Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
+    </string>
+    <string name="haa_population">\n\n Haa Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n  Total population 13,655 \n Male  : 7,435 \n Female : 6,220 \n\n
+    Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
+    </string>
+    <string name="gasa_population">\n\n Gasa Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 3,952 \n Male  : 2,104 \n Female : 1,848 \n\n
+    Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
+    </string>
+    <string name="wangdiphodrang_population">\n\n Wangdi Phodrang Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 42,186 \n Male  : 24,302 \n Female : 17,884 \n\n
+    Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
+    </string>
+    <string name="chukha_population"> \n\n Chukha Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\nTotal population 68,966 \n Male  : 36,041 \n Female : 32,925 \n\n
             PHUNTSHOLING THROMDE Total population 27,658 \n Male  : 15,052 \n Female : 12,606 \n\n
-        OTHER THAN THROMDE Total population 41,308 \n Male  : 20,989 \n Female : 20,319
+        OTHER THAN THROMDE Total population 41,308 \n Male  : 20,989 \n Female : 20,319 \n\n
+        Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
 
     </string>
-    <string name="dagana_population">Total population 24,965 \n Male  : 12,956 \n Female : 12,009</string>
-    <string name="samtse_population">Total population 62,590 \n Male  : 32,022 \n Female : 30,568</string>
-    <string name="sarpang_population">Total population 46,004 \n Male  : 24,018 \n Female : 21,986</string>
-    <string name="pemagatshel_population">Total population 23,632 \n Male  : 11,922 \n Female : 11,710</string>
-    <string name="zhemgang_population">Total population 17,763 \n Male  : 9,165 \n Female : 8,568</string>
-    <string name="samdrupjongkher_population">Total population 35,079 \n Male  : 18,329 \n Female : 16,750 \n\n
-        SAMDRUP JONGKHER THROMDE Total population 9,325 \n Male  : 5,016 \n Female : 4,309 \n\n
-        OTHER THAN THROMDE Total population 25,754 \n Male  : 13,313 \n Female : 12,441</string>
-    <string name="tashiyangtse_population">Total population 17,300 \n Male  : 8,719 \n Female : 8,581</string>
-    <string name="tashigang_population">Total population 45,518 \n Male  : 23,414 \n Female : 22,104</string>
-    <string name="lhuntse_population">Total population 14,437 \n Male  : 7,407 \n Female : 7,030</string>
-    <string name="trongsa_population">Total population 19,960 \n Male  : 11,878 \n Female : 8,082</string>
-    <string name="bumthang_population">Total population 17,820 \n Male  : 9,396 \n Female : 8,424</string>
-    <string name="mongar_population">Total population 37,150 \n Male  : 18,247 \n Female : 18,903 </string>
-    <string name="tsirang_population">Total population 22,376 \n Male  : 11,526 \n Female : 10,850</string>
+    <string name="dagana_population">\n\n Dagana Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n  Total population 24,965 \n Male  : 12,956 \n Female : 12,009 \n\n
+    Language \n\n Dzongkha is the national language, as well as the lingua franca of Bhutan and the native language of
+western Bhutan, comprising eight (Thimphu, Paro, Ha, Gasa, Chukha, Punakha, Wangduphodrang, and
+Dagana) of the twenty districts in Bhutan. It has the maximum number of speakers (estimated 160000).
+Dzongkha is also the only Tibeto-Burman language which has a written script, besides Lhotshamkha.
+Literally, Dzongkha means the language of the fortresses.
+    </string>
 
+
+    <string name="samtse_population">\n\n Samtse Population \n\n The population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 62,590 \n Male  : 32,022 \n Female : 30,568 \n\n
+    Language \n
+Lhotshamkha (loconym or ameliorative term for Nepali), the only Indo-Aryan language in Bhutan, is the language of the Lhotsampas (loconym or ameliorative term for Nepali speaking Bhutanese in
+southern Bhutan). In terms of the number of speakers, Lhotshamkha is next to Dzongkha, with 156000 speakers. Lhotshamkha is historically a newly arrived language in southern Bhutan. The greater part of
+Lhotshamkha populace are originally from Nepal. Many of the Lhotshamkha speakers were Limbu, Rai,Tamang, Gurung or Magar by origin, but in the process of abandoning their ancestral homelands became linguistically and culturally assimilated to the dominant Indo-Aryan language and culture.
+
+    </string>
+    <string name="sarpang_population">\n\n Sarpang Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 46,004 \n Male  : 24,018 \n Female : 21,986 \n\n
+     Language \n
+Lhotshamkha (loconym or ameliorative term for Nepali), the only Indo-Aryan language in Bhutan, is the language of the Lhotsampas (loconym or ameliorative term for Nepali speaking Bhutanese in
+southern Bhutan). In terms of the number of speakers, Lhotshamkha is next to Dzongkha, with 156000 speakers. Lhotshamkha is historically a newly arrived language in southern Bhutan. The greater part of
+Lhotshamkha populace are originally from Nepal. Many of the Lhotshamkha speakers were Limbu, Rai, Tamang, Gurung or Magar by origin, but in the process of abandoning their ancestral
+        homelands became linguistically and culturally assimilated to the dominant Indo-Aryan language and culture.
+    </string>
+    <string name="pemagatshel_population">\n\n PemaGatsgel Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 23,632 \n Male  : 11,922 \n Female : 11,710 \n\n
+   Language \n
+Tsangla is spoken predominantly in eastern Bhutan, where it is also known as Sharchop-kha, the language of the Sharchop, i.e. people living in the east. The number of speaker is estimated as 138000 (Van Driem,
+1992). As the largest of the non-official languages of Bhutan, it serves as a lingua franca for several smaller language groups in the eastern half of the kingdom. Tsangla, literally meaning, ‘talk’ (Kezang Tshering,
+personal communication) is spoken in Trashigang, Pemagatshel, Samdrupjongkhar, and Mongar districts. Tshangla is also spoken just across the border from eastern Bhutan in Arunachal Pradesh and Dirang
+        in the Kameng region in India (Andvik , 1993)
+    </string>
+    <string name="zhemgang_population">\n\n Zhemgang Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 17,763 \n Male  : 9,165 \n Female : 8,568</string>
+    <string name="samdrupjongkher_population">\n\n The population of Bhutan represents 0.01 percent of the world´s total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 35,079 \n Male  : 18,329 \n Female : 16,750 \n\n
+        SAMDRUP JONGKHER THROMDE Total population 9,325 \n Male  : 5,016 \n Female : 4,309 \n\n
+        OTHER THAN THROMDE Total population 25,754 \n Male  : 13,313 \n Female : 12,441 \n\n
+       Language \n
+Tsangla is spoken predominantly in eastern Bhutan, where it is also known as Sharchop-kha, the language of the Sharchop, i.e. people living in the east. The number of speaker is estimated as 138000 (Van Driem,
+1992). As the largest of the non-official languages of Bhutan, it serves as a lingua franca for several smaller language groups in the eastern half of the kingdom. Tsangla, literally meaning, ‘talk’ (Kezang Tshering,
+personal communication) is spoken in Trashigang, Pemagatshel, Samdrupjongkhar, and Mongar districts. Tshangla is also spoken just across the border from eastern Bhutan in Arunachal Pradesh and Dirang
+        in the Kameng region in India (Andvik , 1993)
+    </string>
+    <string name="tashiyangtse_population">\n\n TrashiYangtse Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 17,300 \n Male  : 8,719 \n Female : 8,581 \n\n
+       Language \n
+Tsangla is spoken predominantly in eastern Bhutan, where it is also known as Sharchop-kha, the language of the Sharchop, i.e. people living in the east. The number of speaker is estimated as 138000 (Van Driem,
+1992). As the largest of the non-official languages of Bhutan, it serves as a lingua franca for several smaller language groups in the eastern half of the kingdom. Tsangla, literally meaning, ‘talk’ (Kezang Tshering,
+personal communication) is spoken in Trashigang, Pemagatshel, Samdrupjongkhar, and Mongar districts. Tshangla is also spoken just across the border from eastern Bhutan in Arunachal Pradesh and Dirang
+        in the Kameng region in India (Andvik , 1993)
+    </string>
+    <string name="tashigang_population">\n\n Trashigang Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 45,518 \n Male  : 23,414 \n Female : 22,104 \n\n
+   Language \n
+Tsangla is spoken predominantly in eastern Bhutan, where it is also known as Sharchop-kha, the language of the Sharchop, i.e. people living in the east. The number of speaker is estimated as 138000 (Van Driem,
+1992). As the largest of the non-official languages of Bhutan, it serves as a lingua franca for several smaller language groups in the eastern half of the kingdom. Tsangla, literally meaning, ‘talk’ (Kezang Tshering,
+personal communication) is spoken in Trashigang, Pemagatshel, Samdrupjongkhar, and Mongar districts. Tshangla is also spoken just across the border from eastern Bhutan in Arunachal Pradesh and Dirang
+        in the Kameng region in India (Andvik , 1993) </string>
+
+    <string name="lhuntse_population">\n\n Lhuntshe Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 14,437 \n Male  : 7,407 \n Female : 7,030 \n\n
+    Language \n
+        Cho-can-nga-cha-kha, spoken in Mongar and Lhuntse districts, is the most closely related language to Dzongkha. Though the language is generally called Cho-can-nga-cha-kha by outsiders, the speakers
+prefer to call it by their various loconyms, Tsamangli-kha (the language of Tsamang and Tsakaling, both
+are villages in Mongar district), and Kurmetpi-kha (the language of Kurmet, which is the Cho-can-nga-
+cha-kha speaking area of Lhuntse district) (Van Dreiem, 1992). The speakers of Cho-can-nga-cha-kha
+are called Matpa, meaning inhabitants of lower area. \n\n
+Kurtoepkha (or Kurtobi Zhake) is spoken in Lhuntse district. In the south, the Kurtoeb speaking area
+begins at the village of Tangmachu, south of which Cho-can-nga-cha-kha is spoken. The dialect of
+Tangmachu differs somewhat from the rest of the language as it is spoken elsewhere in the district (Van
+Driem, 1992).
+
+    </string>
+
+    <string name="trongsa_population">\n\n Trongsa Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 19,960 \n Male  : 11,878 \n Female : 8,082</string>
+
+    <string name="bumthang_population">\n\n Bumthang Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 17,820 \n Male  : 9,396 \n Female : 8,424 \n\n
+    Language \n
+Bumthangkha is the language of Bumtap (people from Bumthang district). Van Driem identified four major dialects of Bumthangkha; the dialect of Ura, the dialect of Tang, the dialect of Chogor, and the
+dialect of Chunmat. On the one hand, the language is not only similar to Tibetan language but is also heavily influenced by Tibetan language (Michailovsky Mazaudon, 1994), on the other, Bumthangkha
+is so similar to Khengkha and Kurtoekha that these two languages could be considered as dialects of
+Bumthangkha (Van Driem, 1992).
+
+    </string>
+
+    <string name="mongar_population">\n\n Mongar Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 37,150 \n Male  : 18,247 \n Female : 18,903 \n\n
+       Language \n
+Tsangla is spoken predominantly in eastern Bhutan, where it is also known as Sharchop-kha, the language of the Sharchop, i.e. people living in the east. The number of speaker is estimated as 138000 (Van Driem,
+1992). As the largest of the non-official languages of Bhutan, it serves as a lingua franca for several smaller language groups in the eastern half of the kingdom. Tsangla, literally meaning, ‘talk’ (Kezang Tshering,
+personal communication) is spoken in Trashigang, Pemagatshel, Samdrupjongkhar, and Mongar districts. Tshangla is also spoken just across the border from eastern Bhutan in Arunachal Pradesh and Dirang
+        in the Kameng region in India (Andvik , 1993)
+    </string>
+
+    <string name="tsirang_population"> \n\n Tsirang Population \n\nThe population of Bhutan represents 0.01 percent of the worlds total population which arguably
+        means that one person in every 9425 people on the planet is a resident of Bhutan. \n\n Total population 22,376 \n Male  : 11,526 \n Female : 10,850 \n\n
+    Language \n
+Lhotshamkha (loconym or ameliorative term for Nepali), the only Indo-Aryan language in Bhutan, is the language of the Lhotsampas (loconym or ameliorative term for Nepali speaking Bhutanese in
+southern Bhutan). In terms of the number of speakers, Lhotshamkha is next to Dzongkha, with 156000 speakers. Lhotshamkha is historically a newly arrived language in southern Bhutan. The greater part of
+Lhotshamkha populace are originally from Nepal. Many of the Lhotshamkha speakers were Limbu, Rai, Tamang, Gurung or Magar by origin, but in the process of abandoning their ancestral
+        homelands became linguistically and culturally assimilated to the dominant Indo-Aryan language and culture.
+    </string>
+
+    <!-- Geographical details -->
+
+    <string name="thimphu_geographical"> \n \n Geographical Detail of Thimphu \n\n
+        Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+        three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+        central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+        in northern Bhutan reach heights of over 7,000 meters. Bhutans highest point is Kula Kamgri which reaches a height of 24,783 ft.
+        (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+        country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+        Thimphu is situated in the constricted, linear valley of the Raidāk River, which is also known as the Thimphu River (Thimpu Chuu).
+        While the surrounding hills are in an altitudinal range of 2,000 to 3,800 metres (6,562–12,467 feet) (warm temperate climate
+        between 2,000 to 3,000 metres (6,562–9,843 feet) and cold temperate zone between 3,000–3,800 metres (9,843–12,467 feet)),
+        the city itself has an altitude range varying between 2,248 metres (7,375 feet) and 2,648 metres (8,688 feet). \n It is these two
+        variations in altitude and climate which determine the habitable zones and vegetation typology for the valley. The valley, however,
+        is thinly-forested and is spread out to the north and west. At the southern end of the city, the Lungten Zampa bridge connects the
+        east and west banks of the Wang Chuu which flows through the heart of city. \n\n
+     o	The average annual temperature in Thimphu is 11.6 °C. \n o	About 1599 mm of precipitation falls annually. \n
+o	Latitude: 27°27′57″ N \n o	Longitude: 89°38′30″ E \n o	Elevation above sea level: 2307 m = 7568 ft \n o  Thimphu being under temprate zone
+        animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars, wild pigs and barking deer. \n
+
+
+
+
+    </string>
+
+    <string name="paro_geographical"> \n \n Geographical Detail of  Paro\n\n
+        Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+        three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+        central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+        in northern Bhutan reach heights of over 7,000 meters. Bhutans highest point is Kula Kamgri which reaches a height of 24,783 ft.
+        (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+        country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+       o	The average annual temperature is 12.4°C in Paro. \n o	 In a year, the average rainfall is 1820 mm. \n o	Latitude: 27°25′49″ N \n
+       o	Longitude: 89°24′48″ E \n o	 Elevation above sea level: 2266 m = 7434 ft \n o  Paro being under temprate zone
+        animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars, wild pigs and barking deer. \n\n
+    </string>
+
+    <string name="punakha_geographical"> \n \n Geographical Detail of  Punakha\n\n
+        Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+        three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+        central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+        in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+        (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+        country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+       o	The average annual temperature in Punakha is 18.2°C. \n o	In a year, the average rainfall is 3016 mm. \no  Latitude: 27.5921° N,\n
+      o	Longitude: 89.8797° E \n  o  Punakha being under temprate zone
+        animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars, wild pigs and barking deer. \n\n
+    </string>
+
+
+    <string name="haa_geographical"> \n \n Geographical Detail of Haa \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average annual temperature in Haa is 0.3°C. \n
+    o	In a year, the average rainfall is 416 mm. \n
+    o	Latitude: 27.3862° N \n
+    o  Longitude: 89.2776° E \n
+    o  Haa being under  higher altitudes you will come across snow leopards, blue sheep, red pandas,
+        takin, marmots and musk deer. \n\n
+    </string>
+
+    <string name="gasa_geographical"> \n \n Geographical Detail of  Gasa \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average annual temperature in Gasa is 10.3°C.  \n o	In a year, the average rainfall is 1093 mm. \n
+o	Latitude: 27.8983° N \n  o	Longitude: 89.7310° E  \n o  gasa being under  higher altitudes you will come across
+        snow leopards, blue sheep, red pandas, takin, marmots and musk deer. \n\n
+    </string>
+
+    <string name="wangdi_geographical"> \n \n Geographical Detail of Wangdi Phodrang  \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average annual temperature in Wangdue Phodrang is 18.1°C. \n  o	In a year, the average rainfall is 3080 mm. \n
+o	Latitude: 27.4879° N \n  o	Longitude: 89.8996° E \n o  Wangdi being under temprate zone
+    animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars, wild pigs and barking deer. \n\n
+    </string>
+
+    <string name="trongsa_geographical"> \n \n Geographical Detail of Trongsa  \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	In Trongsa, the average annual temperature is 14.0°C. \n  o	In a year, the average rainfall is 1956 mm. \n
+         o	Latitude: 27.5002° N \n  o   Longitude: 90.5081° E \n
+o  Trongsa being under temprate zone animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas,
+        sambars, wild pigs and barking deer. \n\n
+    </string>
+    <string name="bumthang_geographical"> \n \n Geographical Detail of Bumthang \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+   Jakar \n\n
+o	The average annual temperature is 11.7°C. \n
+o	The average annual rainfall is 1404 mm. \n
+Zugne \n\n
+•	The average annual temperature is 10.8°C. \n
+•	In a year, the average rainfall is 1280 mm. \n
+	Domkhar \n\n
+o	The average annual temperature is 9.8°C. \n
+o	The average annual rainfall is 1143 mm. \n
+	Ura \n\n
+o	The average annual temperature is 8.8°C. \n
+o	The average annual rainfall is 973 mm. \n
+    o	Latitude: 27.6418° N \n  o   Longitude: 90.6773° E \n
+o  Bumthang being under  higher altitudes you will come across
+        snow leopards, blue sheep, red pandas, takin, marmots and musk deer. \n\n
+    </string>
+    <string name="chukha_geographical"> \n \n Geographical Detail of Chukha \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average annual temperature is 23.2°C in Phuntsholing. \n
+o	In a year, the average rainfall is 4383 mm. \n
+o	Latitude: 27.0784° N \n
+o	Longitude: 89.4742° E \n
+o  Chukha being under temprate zone animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars,
+        wild pigs and barking deer. \n\n
+    </string>
+
+    <string name="dagana_geographical"> \n \n Geographical Detail of Dagana \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average annual temperature is 16.8°C in Daga. \n
+o	About 3114 mm of precipitation falls annually. \n
+o	Latitude: 27.0323° N  \n
+o	Longitude : 89.8879° E \n
+o   Dagana  being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
+
+    <string name="lhuntse_geographical"> \n \n Geographical Detail of Lhuntse \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	In Lhuntse, the average annual temperature is 15.4°C. \n
+o	In a year, the average rainfall is 1899 mm. \n
+o	Latitude: 27.8265° N  \n
+o	Longitude: 91.1353° E \n
+o   Lhuntse being under temprate zone animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars,
+        wild pigs and barking deer. \n\n
+    </string>
+    <string name="mongar_geographical"> \n \n Geographical Detail of Mongar  \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+   o	In Mongar, the average annual temperature is 17.2°C. \n
+o	About 2444 mm of precipitation falls annually. \n
+o	Latitude: 27.2617° N \n
+o	Longitude: 91.2891° E \n
+o  Mongar being under temprate zone animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars,
+        wild pigs and barking deer. \n\n
+    </string>
+    <string name="pemagatshel_geographical"> \n \n Geographical Detail of Pemagatshel \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	In Pemagatsel, the average annual temperature is 15.0 °C. \n
+o	The average annual rainfall is 2049 mm. \n
+o	Latitude:  27.0024° N \n
+o	Longitude: 91.3469° E \n
+o   Pemagatshel  being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
+    <string name="samdrupjongkher_geographical"> \n \n Geographical Detail of  Samdrup jongkher \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+   o	In Samdrup Jongkar, the average annual temperature is 23.8 °C. \n
+o	About 2749 mm of precipitation falls annually. \n
+o	Latitude:  26.8036° N \n
+o	Longitude: 91.5039° E \n
+o   Samdrup jongkher being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
+    <string name="samtse_geographical"> \n \n Geographical Detail of Samtse \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+   o	The temperature here averages 22.5 °C. \n
+o	The rainfall here averages 3825 mm. \n
+o	Latitude: 27.0292° N \n
+o	Longitude: 89.0562° E\n
+o   Samtse  being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
+    <string name="sarpang_geographical"> \n \n Geographical Detail of  Sarpang \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average annual temperature in Sarpang is 22.7 °C. \n
+o	In a year, the average rainfall is 3950 mm. \n
+o	Latitude: 26.9373° N \n
+o	Longitude: 90.4880° E \n
+o   Dagana  being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
+    <string name="tashigang_geographical"> \n \n Geographical Detail of Tashigang \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	In Tashigang, the average annual temperature is 18.8 °C. \n
+o	In a year, the average rainfall is 2496 mm. \n
+o	Latitude: 27.3325° N \n
+o	Longitude:  91.5523° E \n
+o   Tashigang  being under temprate zone animals found are Leopards, gorals, gray langurs, Himalayan black bears, red pandas, sambars,
+        wild pigs and barking deer. \n\n
+    </string>
+    <string name="tsirang_geographical"> \n \n Geographical Detail of Tsirang \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+   o	The average annual temperature in Damphu is 19.7 °C. \n
+o	The rainfall here averages 3719 mm. \n
+o	Latitude: 27.0322° N \n
+o	Longitude:  90.1870° E \n
+o   Tsirang being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
+    <string name="tashiyangtse_geographical"> \n \n Geographical Detail of Tashiyangtse \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\'s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average temperature in Trashiyangtse is 15.9 °C. \n
+o	Precipitation here averages 1883 mm. \n
+o	Latitude: 27.6825° N \n
+o	Longitude: 91.4821° E\n
+o  Tashiyangtse  being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
+    <string name="zhemgang_geographical"> \n \n Geographical Detail of Zhemgang \n\n
+    Bhutan is a rugged land of steep mountains and deep valleys, that is easily divided into
+    three main geographical areas. \n The lowlands front its southern border with India; the lesser (or lower) Himalayas cover the
+    central areas, and its northern border with China is dominated by the massive peaks of the Himalayas. \n Many mountain peaks
+    in northern Bhutan reach heights of over 7,000 meters. Bhutan\s highest point is Kula Kamgri which reaches a height of 24,783 ft.
+    (7,554 m). \n Numerous small rivers drain the land, including the Dangme, Mangde, Sankosh and Torsa. The lowest point of the
+    country is the Drangme Chhu river at 318 ft. (97 m). \n\n
+    o	The average annual temperature is 16.8 °C in Daga. \n
+o	About 3114 mm of precipitation falls annually. \n
+o	Latitude: 27.0770° N  \n
+o	Longitude : 90.8294° E \n
+o   Dagana  being under tropical forests in the south are a haven for clouded leopards, elephants, one horned Rhinoceros, water buffalos, golden langurs, gaurs,
+        swamp deer, hog deer, horn bills and many other species. \n\n
+    </string>
 
 </resources>

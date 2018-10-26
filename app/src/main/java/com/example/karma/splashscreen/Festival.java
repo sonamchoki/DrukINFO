@@ -28,7 +28,7 @@ public class Festival extends AppCompatActivity {
             tv.setText(R.string.thimphu_festival);
         }
 
-        else if(s1.equalsIgnoreCase("PUNAKHA"))
+        else if(s1.equalsIgnoreCase("Punakha"))
         {
             img=(ImageView)findViewById(R.id.img);
             tv=(TextView)findViewById(R.id.t1);
@@ -86,5 +86,7 @@ public class Festival extends AppCompatActivity {
             tv.setText(R.string.bumthang_festival);
 
         }
+
+
     }
 }

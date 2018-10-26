@@ -67,14 +67,14 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:id="@+id/d1"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/thimphu" />
 
                         <TextView
@@ -111,21 +111,21 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/punakha" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
+                            android:layout_weight="1"
                             android:text="PUNAKHA"
                             android:textAlignment="center"
-                            android:layout_weight="1"
                             android:textColor="#000"
                             android:textStyle="bold"
 
@@ -156,20 +156,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/paro" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="PARO"
                             android:layout_weight="1"
+                            android:text="PARO"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -199,21 +199,21 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/haa" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
+                            android:layout_weight="1"
                             android:text="HAA"
                             android:textAlignment="center"
-                            android:layout_weight="1"
                             android:textColor="#000"
                             android:textStyle="bold"
 
@@ -244,21 +244,21 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/gasa" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
+                            android:layout_weight="1"
                             android:text="GASA"
                             android:textAlignment="center"
-                            android:layout_weight="1"
                             android:textColor="#000"
                             android:textStyle="bold"
 
@@ -287,21 +287,21 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="5"
                             android:src="@drawable/wangdue" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
+                            android:layout_weight="1"
                             android:text="WANGDIPHODRANG"
                             android:textAlignment="center"
-                            android:layout_weight="1"
                             android:textColor="#000"
                             android:textStyle="bold"
 
@@ -332,20 +332,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/trongsa" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="TRONGSA"
                             android:layout_weight="1"
+                            android:text="TRONGSA"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -375,20 +375,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/bumthang" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="BUMTHANG"
                             android:layout_weight="1"
+                            android:text="BUMTHANG"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -420,20 +420,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/chukha" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="CHUKHA"
                             android:layout_weight="1"
+                            android:text="CHUKHA"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -463,20 +463,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/dagana" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="DAGANA"
                             android:layout_weight="1"
+                            android:text="DAGANA"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -508,20 +508,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/lhuentse" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="LHUNTSE"
                             android:layout_weight="1"
+                            android:text="LHUNTSE"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -551,20 +551,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/monggar" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="MONGAR"
                             android:layout_weight="1"
+                            android:text="MONGAR"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -596,20 +596,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/pemagatshel" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="PEMAGATSHEL"
                             android:layout_weight="1"
+                            android:text="PEMAGATSHEL"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -639,20 +639,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/samdrupjongkhar" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="SAMDRUPJONGKHAR"
                             android:layout_weight="1"
+                            android:text="SAMDRUPJONGKHAR"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -684,20 +684,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/samtse" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="SAMTSE"
                             android:layout_weight="1"
+                            android:text="SAMTSE"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -727,20 +727,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/sarpang" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="SARPANG"
                             android:layout_weight="1"
+                            android:text="SARPANG"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -772,20 +772,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/tgang" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="TASHIGANG"
                             android:layout_weight="1"
+                            android:text="TASHIGANG"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -815,20 +815,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/tsirang" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="TSIRANG"
                             android:layout_weight="1"
+                            android:text="TSIRANG"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -860,20 +860,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/tyangtse" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="TASHIYANGTSE"
                             android:layout_weight="1"
+                            android:text="TASHIYANGTSE"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -903,20 +903,20 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="16dp"
-                        android:weightSum="5"
-                        android:orientation="vertical">
+                        android:orientation="vertical"
+                        android:weightSum="5">
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="4"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="4"
                             android:src="@drawable/zhemgang" />
 
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="31dp"
-                            android:text="ZHEMGANG"
                             android:layout_weight="1"
+                            android:text="ZHEMGANG"
                             android:textAlignment="center"
                             android:textColor="#000"
                             android:textStyle="bold"
@@ -926,10 +926,20 @@
                     </LinearLayout>
 
                 </android.support.v7.widget.CardView>
-            </GridLayout>
 
+               </GridLayout>
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|end"
+                android:layout_margin="@dimen/fab_margin"
+                android:background="#a128a3b1"
+                android:src="@drawable/up_arrow"
+                app:fabSize="normal" />
         </LinearLayout>
-    </ScrollView>
+
+   </ScrollView>
 
 
 

@@ -21,6 +21,7 @@ public class List_Activity_Thimphu extends AppCompatActivity {
         s1=getIntent().getStringExtra("myText");
         lc1=(CardView)findViewById(R.id.lc1);
         lc2=(CardView)findViewById(R.id.lc2);
+        lc4=(CardView)findViewById(R.id.lc4);
         lc1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -39,6 +40,14 @@ public class List_Activity_Thimphu extends AppCompatActivity {
             }
         });
 
+        lc4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent= new Intent(List_Activity_Thimphu.this, Geographical_detail.class);
+                intent.putExtra("myText", s1);
+                startActivity(intent);
+            }
+        });
 
     }
 }

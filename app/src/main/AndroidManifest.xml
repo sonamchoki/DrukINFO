@@ -36,6 +36,9 @@
             android:name=".Population_and_Languages"
             android:parentActivityName=".List_Activity_Thimphu" />
         <activity android:name=".Share_link_Activity" />
+        <activity android:name=".Geographical_detail"
+                android:parentActivityName=".List_Activity_Thimphu"
+            ></activity>
     </application>
 
 </manifest>

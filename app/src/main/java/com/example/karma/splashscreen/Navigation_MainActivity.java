@@ -20,6 +20,8 @@ import android.view.MenuItem;
 public class Navigation_MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    FloatingActionButton fab1;
+
 CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
 
     @Override
@@ -48,8 +50,8 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c6=(CardView) findViewById(R.id.c6);
         c7=(CardView) findViewById(R.id.c7);
         c8=(CardView) findViewById(R.id.c8);
-       /* c9=(CardView) findViewById(R.id.c9);
-        c10=(CardView) findViewById(R.id.c10);
+        c9=(CardView) findViewById(R.id.c9);
+       c10=(CardView) findViewById(R.id.c10);
         c11=(CardView) findViewById(R.id.c11);
         c12=(CardView) findViewById(R.id.c12);
         c13=(CardView) findViewById(R.id.c13);
@@ -59,7 +61,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c17=(CardView) findViewById(R.id.c17);
         c18=(CardView) findViewById(R.id.c18);
         c19=(CardView) findViewById(R.id.c19);
-        c20=(CardView) findViewById(R.id.c20); */
+        c20=(CardView) findViewById(R.id.c20);
         c1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -74,7 +76,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="PUNAKHA";
+                String s="Punakha";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -148,10 +150,10 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             }
         });
 
-       /* c9.setOnClickListener(new View.OnClickListener() {
+        c9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Samtse";
+                String s="Chukha";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -162,7 +164,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c10.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Sarpang";
+                String s="Dagan";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -173,7 +175,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c11.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Pemagatshel";
+                String s="Lhuntse";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -184,7 +186,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c12.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Zhemgang";
+                String s="Mongar";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -195,7 +197,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c13.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="samdrupjongkhar";
+                String s="Pemagatshel";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -206,7 +208,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c14.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Tashiyangtse";
+                String s="Samdrupjongkher";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -217,7 +219,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c15.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Tashigang";
+                String s="Samtse";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -228,7 +230,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c16.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Lhuntse";
+                String s="Sarpang";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -239,7 +241,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c17.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Trongsa";
+                String s="Tashigang";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -250,7 +252,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c18.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Bumthang";
+                String s="Tsirang";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -261,7 +263,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c19.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Mongar";
+                String s="Tashiyangtse";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
@@ -272,15 +274,25 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
         c20.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s="Tsirang";
+                String s="Zhemgang";
 
                 Intent intent=new Intent(Navigation_MainActivity.this, List_Activity_Thimphu.class);
                 intent.putExtra("myText", s);
                 startActivity(intent);
             }
-        }); */
+        });
 
 
+
+
+       FloatingActionButton fab1 = (FloatingActionButton)findViewById(R.id.fab_up);
+       fab1.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View v) {
+               Snackbar.make(v, "Replace with your action", Snackbar.LENGTH_LONG).setAction("Action", null).show();
+               startActivity(new Intent(Navigation_MainActivity.this, Navigation_MainActivity.class));
+           }
+       });
     }
 
     @Override
@@ -352,8 +364,16 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             alertDialog.show();
 
         } else if (id == R.id.share) {
-            Intent intent=new Intent(Navigation_MainActivity.this,Share_link_Activity.class);
-            startActivity(intent);
+           // Intent intent=new Intent(Navigation_MainActivity.this,Share_link_Activity.class);
+           // startActivity(intent);
+
+            Intent intent= new Intent(Intent.ACTION_SEND);
+            intent.setType("text/plain");
+            String shareBody = "Your body here";
+            String shareSub ="Your subject here";
+            intent.putExtra(Intent.EXTRA_SUBJECT,shareSub);
+            intent.putExtra(Intent.EXTRA_TEXT,shareBody);
+            startActivity(Intent.createChooser(intent, "Share using"));
 
         } else if (id == R.id.feedback) {
 
