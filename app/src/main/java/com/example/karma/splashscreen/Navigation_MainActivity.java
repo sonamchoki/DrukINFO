@@ -365,7 +365,7 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
 
         } else if (id == R.id.share) {
            // Intent intent=new Intent(Navigation_MainActivity.this,Share_link_Activity.class);
-           // startActivity(intent);
+         // startActivity(intent);
 
             Intent intent= new Intent(Intent.ACTION_SEND);
             intent.setType("text/plain");
@@ -376,6 +376,8 @@ CardView c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20;
             startActivity(Intent.createChooser(intent, "Share using"));
 
         } else if (id == R.id.feedback) {
+            Intent intent=new Intent(Navigation_MainActivity.this,tourist_hotspot.class);
+             startActivity(intent);
 
         }
 
