@@ -1,8 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/flamebg"
+    android:background="@drawable/fragmentbg"
     >
 
-</android.support.constraint.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="177dp"
+                android:src="@drawable/drugyaldzong" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Drugyal"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/buddha" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Buddha_point"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/memo" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Memorial_Chorten"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/tigernest" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Tag_tshang"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,7 +1,10 @@
 package com.example.karma.splashscreen;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -166,4 +169,22 @@ public class Population_and_Languages extends AppCompatActivity {
             tv.setText(R.string.zhemgang_population);
         }
     }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.home, menu);
+        return true;
+    }
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item)
+    {
+        switch(item.getItemId()) {
+            case R.id.action_settings:
+                Intent intent=new Intent(Population_and_Languages.this,Navigation_MainActivity.class);
+                startActivity(intent);
+
+        }
+        return(super.onOptionsItemSelected(item));
+    }
+
 }

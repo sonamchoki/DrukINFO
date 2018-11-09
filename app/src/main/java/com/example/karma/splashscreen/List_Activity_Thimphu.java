@@ -22,6 +22,8 @@ public class List_Activity_Thimphu extends AppCompatActivity {
         lc1=(CardView)findViewById(R.id.lc1);
         lc2=(CardView)findViewById(R.id.lc2);
         lc4=(CardView)findViewById(R.id.lc4);
+        lc3=(CardView)findViewById(R.id.lc3);
+        lc5=(CardView)findViewById(R.id.lc5);
         lc1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -44,6 +46,24 @@ public class List_Activity_Thimphu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent= new Intent(List_Activity_Thimphu.this, Geographical_detail.class);
+                intent.putExtra("myText", s1);
+                startActivity(intent);
+            }
+        });
+
+        lc3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent= new Intent(List_Activity_Thimphu.this, Gewogs_Heads.class);
+                intent.putExtra("myText", s1);
+                startActivity(intent);
+            }
+        });
+
+        lc5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent= new Intent(List_Activity_Thimphu.this, Contact_Details.class);
                 intent.putExtra("myText", s1);
                 startActivity(intent);
             }

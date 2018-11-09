@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/splashlogo"
+    android:orientation="vertical"
+    android:background="@drawable/fragmentbg"
     >
 
-</android.support.constraint.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="177dp"
+                android:src="@drawable/dochula" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Dochula_pass"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/chellaa" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Chele_La"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/thrum" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Thrumshing_La"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/yotongla" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Yotongla"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/pelela" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Pele_la"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="248dp"
+                android:src="@drawable/chomolhari" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Jomolhari"
+                android:textColor="#faf7f7"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

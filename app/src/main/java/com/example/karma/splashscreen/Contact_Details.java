@@ -8,21 +8,16 @@ import android.view.MenuItem;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class Geographical_detail extends AppCompatActivity {
+public class Contact_Details extends AppCompatActivity {
 
     String s1;
     ImageView img;
     TextView tv;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_geographical_detail);
-
-
-
-
+        setContentView(R.layout.activity_contact__details);
 
         s1=getIntent().getStringExtra("myText");
 
@@ -30,8 +25,8 @@ public class Geographical_detail extends AppCompatActivity {
         {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
-            img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.thimphu_geographical);
+            img.setImageResource(R.drawable.conatct1_img);
+            tv.setText(R.string.thimphu_contact);
         }
 
         else if(s1.equalsIgnoreCase("Punakha"))
@@ -39,7 +34,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_all_img);
-            tv.setText(R.string.punakha_geographical);
+            tv.setText(R.string.punakha_contact);
 
         }
 
@@ -48,7 +43,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.paro_geographical);
-            tv.setText(R.string.paro_geographical);
+            tv.setText(R.string.paro_contact);
 
         }
         else if(s1.equalsIgnoreCase("Haa"))
@@ -56,7 +51,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.haa_geographical);
+            tv.setText(R.string.haa_contact);
 
         }
         else if(s1.equalsIgnoreCase("Gasa"))
@@ -64,7 +59,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.gasa_geographical);
-            tv.setText(R.string.gasa_geographical);
+            tv.setText(R.string.gasa_contact);
 
         }
         else if(s1.equalsIgnoreCase("Wangduephodrang"))
@@ -72,7 +67,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.wangdi_geographical);
+            tv.setText(R.string.wangdi_contact);
 
         }
         else if(s1.equalsIgnoreCase("Trongsa"))
@@ -80,7 +75,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.trongsa_geographical);
+            tv.setText(R.string.trongsa_contact);
 
         }
         else if(s1.equalsIgnoreCase("Bumthang"))
@@ -88,7 +83,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.bumthang_geographical);
+            tv.setText(R.string.bumthang_contact);
 
         }
         else if(s1.equalsIgnoreCase("Chukha"))
@@ -96,7 +91,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.chukha_geographical);
+            tv.setText(R.string.chukha_contact);
 
         }
         else if(s1.equalsIgnoreCase("Dagana"))
@@ -104,7 +99,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.dagana_geographical);
+            tv.setText(R.string.dagana_contact);
 
         }
         else if(s1.equalsIgnoreCase("Lhuntse"))
@@ -112,7 +107,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.lhuntse_geographical);
+            tv.setText(R.string.lhuntse_contact);
 
         }
         else if(s1.equalsIgnoreCase("Mongar"))
@@ -120,7 +115,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.mongar_geographical);
+            tv.setText(R.string.mongar_contact);
 
         }
         else if(s1.equalsIgnoreCase("Pemagatshel"))
@@ -128,7 +123,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.pemagatshel_geographical);
+            tv.setText(R.string.pemagatshel_contact);
 
         }
         else if(s1.equalsIgnoreCase("Samdrupjongkher"))
@@ -136,7 +131,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.samdrupjongkher_geographical);
+            tv.setText(R.string.samdrupjongkher_contact);
 
         }
         else if(s1.equalsIgnoreCase("Samtse"))
@@ -144,7 +139,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.samtse_geographical);
+            tv.setText(R.string.samtse_contact);
 
         }
         else if(s1.equalsIgnoreCase("Sarpang"))
@@ -152,7 +147,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.sarpang_geographical);
+            tv.setText(R.string.sarpang_contact);
 
         }
         else if(s1.equalsIgnoreCase("Tashigang"))
@@ -160,7 +155,15 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.tashigang_geographical);
+            tv.setText(R.string.tashigang_contact);
+
+        }
+        else if(s1.equalsIgnoreCase("Tsirang"))
+        {
+            img=(ImageView)findViewById(R.id.g_img);
+            tv=(TextView)findViewById(R.id.g_t1);
+            img.setImageResource(R.drawable.geographical_img);
+            tv.setText(R.string.tsirang_contact);
 
         }
         else if(s1.equalsIgnoreCase("Tashiyangtse"))
@@ -168,7 +171,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.tashiyangtse_geographical);
+            tv.setText(R.string.tashiyangtse_contact);
 
         }
         else if(s1.equalsIgnoreCase("Zhemgang"))
@@ -176,7 +179,7 @@ public class Geographical_detail extends AppCompatActivity {
             img=(ImageView)findViewById(R.id.g_img);
             tv=(TextView)findViewById(R.id.g_t1);
             img.setImageResource(R.drawable.geographical_img);
-            tv.setText(R.string.zhemgang_geographical);
+            tv.setText(R.string.zhemgang_contact);
 
         }
     }
@@ -191,7 +194,7 @@ public class Geographical_detail extends AppCompatActivity {
     {
         switch(item.getItemId()) {
             case R.id.action_settings:
-                Intent intent=new Intent(Geographical_detail.this,Navigation_MainActivity.class);
+                Intent intent=new Intent(Contact_Details.this,Navigation_MainActivity.class);
                 startActivity(intent);
 
         }
@@ -199,3 +202,4 @@ public class Geographical_detail extends AppCompatActivity {
     }
 
 }
+

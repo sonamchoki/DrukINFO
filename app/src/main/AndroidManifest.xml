@@ -31,18 +31,20 @@
             android:parentActivityName=".Navigation_MainActivity" />
         <activity
             android:name=".Festival"
-            android:parentActivityName=".List_Activity_Thimphu" />
+            />
         <activity
             android:name=".Population_and_Languages"
-            android:parentActivityName=".List_Activity_Thimphu" />
+             />
         <activity android:name=".Share_link_Activity" />
         <activity
             android:name=".Geographical_detail"
-            android:parentActivityName=".List_Activity_Thimphu" />
+            />
         <activity
             android:name=".tourist_hotspot"
             android:label="@string/title_activity_tourist_hotspot"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Gewogs_Heads" />
+        <activity android:name=".Contact_Details"></activity>
     </application>
 
 </manifest>

@@ -5,7 +5,7 @@
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="Search"
-        android:icon="@mipmap/search"
+        android:icon="@drawable/home"
         app:showAsAction="ifRoom|collapseActionView"
 
         />
